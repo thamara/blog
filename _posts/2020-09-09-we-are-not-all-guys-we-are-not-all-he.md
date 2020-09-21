@@ -6,7 +6,7 @@ title: We are not all guys, we are not all he
 I have to warn you, if you don't already know the issue with "guys", you are about to, and this will forever change you.
 This is an outburst that many women and non-binary people might relate to, and I ask for the men who found this to continue reading and empathize with the cause.
 
-# So, what's the problem with "Guys"
+## So, what's the problem with "Guys"
 
 tl; dr;: [heyguys.cc](https://heyguys.cc/)
 
@@ -15,7 +15,7 @@ The problem is even worst when we have it in the singular form. Recently I heard
 
 ![My prefered](https://media.giphy.com/media/UuB5mPL27mn3UbF4pO/giphy.gif)
 
-## The solution
+### The solution
 
 At a glance, the solution is simple: replace guys with other words, or get rid of that for complete.
 "Hey guys", can become "Hey folks", "RD guy" can easily be replaced by just "RD". And in the cases where you want to specify a group, why not replace "RD guys" by developers?!
@@ -24,7 +24,7 @@ The difficult part here is that we are used to these sayings, and changing them 
 
 > The hard part isn’t figuring out how to reword the sentence to avoid the word guy or guys. The hard part is breaking the habit.
 
-# What about the "he"?
+## What about the "he"?
 
 How many times you heard or read something like:
 
@@ -33,7 +33,7 @@ How many times you heard or read something like:
 Notice anything strange? I'll point to you in case you missed: We are using "his" as the pronoun for "user", even though we want to be generic.
 This happens a lot, and if you are not a he, you'll probably notice that already.
 
-## The solution
+### The solution
 
 You could rephrase your sentences saying "he or she", or "his or her", which is a much better option, but something that has been gaining some space in the English language, is the use of the [singular they](https://en.wikipedia.org/wiki/Singular_they). The singular they, as the name suggests, is the use in of the pronoun they or its inflected or derivative forms, as a gender-neutral singular pronoun.
 I'm extremely pro the use of the singular they, but there might be some public that dislikes it, so its usage is not well established yet. If you feel this is the case of the public you usually speak to, there are alternatives still.
@@ -45,7 +45,7 @@ In the article of [Gender-neutral Technical Writing](https://techwhirl.com/gende
 - Avoid pronouns completely when you can
 - Use generally-accepted titles: engineers, programmers, users, etc
 
-# Last thoughts
+## Last thoughts
 
 For those who reached here, thank you for listening. At first sight, these might look like ridiculous rants, but the ugly truth is that this is just another example of how (especially) the tech industry is not an inclusive place. Paying attention to the language is a small step towards a better and diverse ecosystem.
 
