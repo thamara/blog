@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We are not all guys, we are not all he
+tags: [letstalk]
 ---
 
 I have to warn you, if you don't already know the issue with "guys", you are about to, and this will forever change you.
