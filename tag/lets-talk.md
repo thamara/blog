@@ -1,5 +1,5 @@
 ---
 layout: posts_by_tag
-tag: letstalk
+tag: lets-talk
 title: Posts tagged Let's Talk
 ---
