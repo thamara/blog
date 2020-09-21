@@ -2,8 +2,8 @@
 title:               Thamara Andrade
 tagline:             'Thoughts of a Software Engineer that loves coffee'
 description:         'Thoughts of a Software Engineer that loves coffee'
-url:                 https://thamara.github.io/
-baseurl:             'blog/'
+url:                 https://thamara.github.io/blog/
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
