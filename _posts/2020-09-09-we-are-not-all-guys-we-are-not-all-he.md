@@ -13,7 +13,9 @@ tl; dr;: [heyguys.cc](https://heyguys.cc/)
 Well, the problem is that "guys", is not as inclusive as you think. People who aren't men can feel excluded when addressed as "guys," even if that is not the intent. And, from the moment you (especially if you are not a man) realize this, forever you'll feel discomfort when people say the two words "hey guys" (and all its variations).
 The problem is even worst when we have it in the singular form. Recently I heard "I will take this to the RD guy", but I was the RD person, me, a woman, and the person who said it knew that. It bothered me. And we see this kind of thing every day.
 
-![My prefered](https://media.giphy.com/media/UuB5mPL27mn3UbF4pO/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/UuB5mPL27mn3UbF4pO/giphy.gif"/>
+</p>
 
 ### The solution
 
@@ -49,7 +51,10 @@ In the article of [Gender-neutral Technical Writing](https://techwhirl.com/gende
 
 For those who reached here, thank you for listening. At first sight, these might look like ridiculous rants, but the ugly truth is that this is just another example of how (especially) the tech industry is not an inclusive place. Paying attention to the language is a small step towards a better and diverse ecosystem.
 
-![Our diversity is out power](https://media.giphy.com/media/h8IcERBmFXChSSKlNI/giphy.gif)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/h8IcERBmFXChSSKlNI/giphy.gif"/>
+</p>
 
 After reading, tell me, what do you think of this?
 
