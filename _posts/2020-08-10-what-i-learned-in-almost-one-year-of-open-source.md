@@ -4,6 +4,10 @@ title: What I learned in (almost) one year of Open-Source
 tags: [open-source, github]
 ---
 
+<p align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--SufKf7BG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/kv9goytfzn9u1oza7rll.jpg"/>
+</p>
+
 About one year ago I decided to dedicate some of my free time contributing to open source projects. The idea was to improve my coding skills and get in touch with newer technologies and frameworks. I learned a lot in this time and would like to share with you some tips I wish someone had told me when I was starting.
 
 Here a summary of the tips, if you are more of a tl;dr; kind of person:
