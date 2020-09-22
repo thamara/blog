@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub Workflows: Update dependencies automatically
+title: 'GitHub Workflows: Update dependencies automatically'
 tags: [open-source, github]
 ---
 
