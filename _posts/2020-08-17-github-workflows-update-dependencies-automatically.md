@@ -59,8 +59,6 @@ The way they suggest to use (and also the way I use) is to have it as a workflow
 
 You can follow the README on the [action's repository](https://github.com/taichi/actions-package-update) and configure it as suggested, but continue reading for some observations and more details on the setup I use.
 
-{% github taichi/actions-package-update %}
-
 **Drawbacks:**
 - Sometimes it creates an ["empty" PR](https://github.com/thamara/time-to-leave/pull/339), without real modifications
 - Following the suggested configuration, it will not trigger other workflows you have set up for PRs, for example, running some tests. And this for me was a show stopper.
@@ -76,7 +74,36 @@ To setup this GitHub App, follow the instructions available [here](https://githu
 
 So, let's look at how the final workflow looks like:
 
-{% gist https://gist.github.com/thamara/dc403b62399643f6289ff3c52cc6b39e %}
+```
+on:
+  schedule:
+    - cron: '0 0 * * *'
+name: Update package dependencies
+jobs:
+  package-update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: tibdex/github-app-token@v1
+      id: generate-token
+      with:
+        app_id: ${{ secrets.APP_ID }}
+        private_key: ${{ secrets.APP_PRIVATE_KEY }}
+    - name: set remote url
+      run: |
+        git remote set-url --push origin https://$GITHUB_ACTOR:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+        npm ci
+    - name: package-update
+      uses: taichi/actions-package-update@master
+      env:
+        AUTHOR_EMAIL: tkcandrade@gmail.com
+        AUTHOR_NAME: Thamara Andrade
+        EXECUTE: "true"
+        GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
+        LOG_LEVEL: debug
+      with:
+        args: -u --packageFile package.json --loglevel verbose
+```
 ###### From [thamara/time-to-leave/.../UpdateDependencies.yml](https://github.com/thamara/time-to-leave/blob/main/.github/workflows/UpdateDependencies.yml)
 
 - On lines 1-3 we see when the Workflow is run: every 0h of every day
