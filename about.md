@@ -3,27 +3,16 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_images/1288263389588918277/Er29bTfn_400x400.jpg"/>
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p class="message">
+  Hey there! I'm Thamara, a Software Engineer living in Belo Horizonte, Brazil. I love coffee, programming and board games. I talk about things I learned while working on open source projects, or any other topic I'm feeling like. But really, it's mostly tech related. My pronouns are she/her.
+</p>
 
-There are currently two themes built on Poole:
+* On [Github](https://github.com/thamara) you'll find what I'm working on currently.
+* On [LinkedIn](https://www.linkedin.com/in/thamara-andrade/) you'll find where I'm working on currently.
+* On [Twitter](https://twitter.com/thamyk) you'll find how I'm feeling currently, and some memes.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Feel free to say hi on any place :)
