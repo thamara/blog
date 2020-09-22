@@ -10,3 +10,5 @@
   name: Electron
 - slug: npm
   name: npm
+- slug: github-workflow
+  name: GitHub Workflow
