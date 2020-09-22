@@ -1,2 +1,12 @@
 - slug: lets-talk
   name: Let's Talk
+- slug: open-source
+  name: Open Source
+- slug: github
+  name: GitHub
+- slug: node
+  name: Node
+- slug: electron
+  name: Electron
+- slug: npm
+  name: npm
