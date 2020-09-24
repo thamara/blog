@@ -37,7 +37,7 @@ I have been thinking about starting a meetup, but it always looked so much compl
 
 It was a consensus that the best tip is to start, don't wait forever. But they have also mentioned that it was really good to get more people to help from the start, have some icebreakers prepared and keep consistent, having the event even without content. They have also referred me to Jens' Weller talk on [Starting and Running C++ User Groups](https://www.youtube.com/watch?v=DBA21neTRAs&ab_channel=CppCon) from CppCon2019.
 
-Thanks in special to Gabriel Aubut-Lussier from [C++ Montreal](https://www.meetup.com/CppMtl/), [Jason Turner](https://twitter.com/lefticus) from [North Denver Metro C++ Meetup](https://www.meetup.com/North-Denver-Metro-C-Meetup/) and CppCast, [Rob Irving](https://twitter.com/robwirving) also from CppCast, and Jens Weller from [Jens Weller](https://meetingcpp.com/index.html).
+Thanks in special to Gabriel Aubut-Lussier from [C++ Montreal](https://www.meetup.com/CppMtl/), [Jason Turner](https://twitter.com/lefticus) from [North Denver Metro C++ Meetup](https://www.meetup.com/North-Denver-Metro-C-Meetup/) and CppCast, [Rob Irving](https://twitter.com/robwirving) also from CppCast, and Jens Weller from [Meeting Cpp](https://meetingcpp.com/index.html).
 
 ## Final thoughts
 
