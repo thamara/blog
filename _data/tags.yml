@@ -12,3 +12,7 @@
   name: npm
 - slug: github-workflow
   name: GitHub Workflow
+- slug: cpp
+  name: C++
+- slug: conferences
+  name: Conferences
