@@ -21,7 +21,7 @@ In this post, I will cover a summary of the event, hoping it can be useful for s
 
 - [Git](#Git)
 - [GitHub](#GitHub)
-  * [GitHub Workflow](#GitHub-Workflow)
+- [GitHub Workflow](#GitHub-Workflow)
 - [Coding is not the only skill required to contribute](#Coding-is-not-the-only-skill-required-to-contribute)
 - [Where to start](#Where-to-start)
 - [Final thoughts](#Final-thoughts)
@@ -41,7 +41,7 @@ As you would expect, GitHub is related to Git, in a way that it's a hosting plat
 
 The best way to learn how to use GitHub is by actually using it. So let me walk you through what a usual work is using GitHub:
 
-### GitHub Workflow
+## GitHub Workflow
 
 1. First of all, we need to find a project (there will be more tips at the end on how to find those)
 2. When you find one project you want, you can browse around, check the code, the issues, what people are doing, until you find something you feel comfortable taking
