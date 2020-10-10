@@ -17,6 +17,18 @@ If you are a Portuguese speaker, you can check the recording [in here](https://w
 
 In this post, I will cover a summary of the event, hoping it can be useful for someone who wants to start contributing to open source.
 
+<!-- toc -->
+
+- [Git](#Git)
+- [GitHub](#GitHub)
+  * [GitHub Workflow](#GitHub-Workflow)
+- [Coding is not the only skill required to contribute](#Coding-is-not-the-only-skill-required-to-contribute)
+- [Where to start](#Where-to-start)
+- [Final thoughts](#Final-thoughts)
+
+<!-- tocstop -->
+
+
 ## Git
 
 Git is the kind of skill that, doesn't matter what you do, mastering it should be useful. If you are a developer, you probably already know Git or any other form of source control, and that's great! The hardest part of learning git is understanding the concepts; if you already know something, it should be a matter of adapting to the commands.
