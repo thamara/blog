@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hey you. This blog has been moved to thamra.dev
+title: Hey you. This blog has been moved to thamara.dev
 tags: [git, github, open-source]
 ---
 
